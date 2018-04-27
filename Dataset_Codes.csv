@@ -1,0 +1,16 @@
+Location_code,Location_description,Lattitude,Longitude,,Maturity_code,Maturity_description,,Category ID,Category Name,CategoryAbbreviation
+APL,Apalachicola Bay,29.728694,-84.90391,,YOY,Young_Of_The_Year,,1,Pelagic Fish,PEL
+BEACH,"inshore Panama City, FL",30.147834,-85.77057,,NEO,NeoNatal,,2,Benthic Fish,BEN
+CIS,Crooked Island Sound,29.965865,-85.475172,,JUV,Juvenile,,3,Unidentifiable fish remains,UFR
+IP,Indian Pass,29.677422,-85.225849,,UND,Undetermined,,4,Crab,CRA
+OFFSHORE,"Offshore Panama City, FL",29.46512,-86.255369,,,,,5,Shrimp-like,SHR
+SAB,St. Andrews Bay ,30.159017,-85.674964,,,,,6,Unidentifiable or other crustacean,UCR
+SJB,St. Joseph Bay,29.690407,-85.317717,,,,,7,Cephalopod,CEP
+,,,,,,,,8,Unidentifiable or other mollusc,MOL
+,,,,,,,,9,Invertebrate,INV
+,,,,,,,,10,Mammal,MAM
+,,,,,,,,11,Bird,BRD
+,,,,,,,,12,Reptile,REP
+,,,,,,,,13,Elasmobranch,ELA
+,,,,,,,,14,Plants,PLA
+,,,,,,,,15,Other,OTR
