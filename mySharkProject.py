@@ -123,11 +123,11 @@ adams = adam(lr=0.0001)
 history2 = History()
 
 model2 = Sequential()
-model2.add(Dense(400, activation='relu', input_shape=(12,)))
-model2.add(Dense(400, activation='relu'))
-model2.add(Dense(400, activation='relu'))
-model2.add(Dense(400, activation='relu'))
-model2.add(Dense(400, activation='relu'))
+model2.add(Dense(364, activation='relu', input_shape=(12,)))
+model2.add(Dense(364, activation='relu'))
+model2.add(Dense(364, activation='relu'))
+model2.add(Dense(364, activation='relu'))
+model2.add(Dense(364, activation='relu'))
 model2.add(Dense(4, activation='softmax'))
 
 #compile the model before fitting it
@@ -209,3 +209,6 @@ plt.legend(['train', 'validation'], loc='upper left')
 plt.show()
 print(history2.history['loss'])
 print(history2.history['val_loss'])
+
+#=====================================SAVING THE MODEL===========================================
+
